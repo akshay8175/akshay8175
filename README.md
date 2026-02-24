@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Skills & tools :
 
-<img width="512" height="512" alt="Python" src="https://github.com/user-attachments/assets/a5ae88c7-0c3a-4ae9-9ee3-e3160d7c69d7" />
+<img width="12" height="12" alt="Python" src="https://github.com/user-attachments/assets/a5ae88c7-0c3a-4ae9-9ee3-e3160d7c69d7" />
 
 
 # Projects:
