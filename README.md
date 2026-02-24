@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d4217083-d81c-4265-a714-73e57d8b64c8" />
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3d605b75-022d-4f4f-9d81-aa7fbea16b11" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/3d605b75-022d-4f4f-9d81-aa7fbea16b11" />
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cd4b399b-0fad-41d6-b677-d336609aad20" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/cd4b399b-0fad-41d6-b677-d336609aad20" />
 
 
 # Projects:
