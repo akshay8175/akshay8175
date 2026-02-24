@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... -->
-- 📫 How to reach me: ![MyLinkedinProfile](https://www.linkedin.com/in/akshay8175/) 
+- 📫 How to reach me: ![](https://www.linkedin.com/in/akshay8175/) 
 - 😄 Pronouns: He/Him
 - 💡 Fun fact: the Analytical Engine — over a hundred years before the first modern computer was built! So technically, software engineering was invented before software even existed. 😄💻
 
