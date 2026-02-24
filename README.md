@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 - Skillsoft Certified: AWS Cloud Practitioner, Kubernetes Administrator, Azure Fundamentals, Jenkins for Devops, Cloud Security Fundamentals.
 - Hacker Rank Certified: Python and SQL Basic & Intermediate.
 
+# Skills & tools :
+
+<img width="512" height="512" alt="Python" src="https://github.com/user-attachments/assets/a5ae88c7-0c3a-4ae9-9ee3-e3160d7c69d7" />
+
+
 # Projects:
   - Developed various projects, including:
     1. Designed and implemented a full-stack web application using Python and Django, focusing on scalability and clean architecture.
