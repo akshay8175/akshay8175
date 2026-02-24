@@ -25,7 +25,17 @@ Here are some ideas to get you started:
 
 # Skills & tools :
 
-<img width="12" height="12" alt="Python" src="https://github.com/user-attachments/assets/a5ae88c7-0c3a-4ae9-9ee3-e3160d7c69d7" />
+<img width="60" height="60" alt="Python" src="https://github.com/user-attachments/assets/a5ae88c7-0c3a-4ae9-9ee3-e3160d7c69d7" />
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9e501766-0424-4ee4-96f0-0f53abb352c1" /> 
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/1eb12c73-3f33-45ce-bc3e-c39cd66495a7" />
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d4217083-d81c-4265-a714-73e57d8b64c8" />
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3d605b75-022d-4f4f-9d81-aa7fbea16b11" />
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cd4b399b-0fad-41d6-b677-d336609aad20" />
 
 
 # Projects:
