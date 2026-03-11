@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <img width="60" height="60" alt="Python" src="https://github.com/user-attachments/assets/a5ae88c7-0c3a-4ae9-9ee3-e3160d7c69d7" />
 
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/9e501766-0424-4ee4-96f0-0f53abb352c1" /> 
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2f41edc7-3780-4916-a460-9a316acba595" />
 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/1eb12c73-3f33-45ce-bc3e-c39cd66495a7" />
 
@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/3d605b75-022d-4f4f-9d81-aa7fbea16b11" />
 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/cd4b399b-0fad-41d6-b677-d336609aad20" />
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/32534c76-5183-4b26-b15f-87f235658368" />
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/38dbd2c6-bdad-4b55-aedc-0f9d3040b1e6" />
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b323f096-c7f4-4c5e-97ea-58c64f2daed2" />
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/c515ed13-b89c-4588-84ee-136366fe6bab" />
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/377963af-a9ef-46cc-a979-0ee33a56b110" />
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6b28cf99-d1ad-435b-a89a-152f94caf1d8" />
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/fb493c24-984f-470d-b6a7-4e9df28bc61e" />
+
+
+
+
+
 
 
 # Projects:
